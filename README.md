@@ -11,3 +11,7 @@ This repo is used for the sole purpose of laying out my personal capstone projec
 
 ## Static App Repo
 [Project Repo](https://github.com/bobbymart1n/npwd-react-native-capstone)
+
+This project uses the _MIT License_  
+
+&copy; **Bobby Martin** 2018
