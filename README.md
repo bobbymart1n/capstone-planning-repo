@@ -14,7 +14,10 @@ This repo is used for the sole purpose of laying out my personal capstone projec
 
 ## State Slices
 phoneNumber = the entered phone number.
-phoneNumberInfo = all data received from the API.
+phoneNumberInfo = all data received from the API. This will be an Object with data attached.
+
+## State
+State is going to reside in the store, the main container component with be App
 
 This project uses the _MIT License_  
 
